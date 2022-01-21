@@ -185,6 +185,10 @@ main .transactions .transaction-list .income-area .transaction .transaction-amou
   font-size: 1.3rem;
 }
 
+main .transactions .transaction-list .income-area .transaction .transaction-amount .delete, main .transactions .transaction-list .expenses-area .transaction .transaction-amount .delete {
+  background-color: var(--first-color);
+}
+
 main .transactions .transaction-list .income-area .transaction:last-child, main .transactions .transaction-list .expenses-area .transaction:last-child {
   border-bottom: none;
 }

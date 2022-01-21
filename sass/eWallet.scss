@@ -148,6 +148,10 @@ main {
           
           .transaction-amount {
             font-size: 1.3rem;
+
+            .delete {
+              background-color: var(--first-color)
+            }
           }
         }
         .transaction:last-child {
