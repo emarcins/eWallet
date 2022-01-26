@@ -36,7 +36,7 @@ You can delete every single transaction (click on "X" icon) but if want you can 
 The language of the app is english.
 
 # How it looks? 🖼️
-![smartNotesApp](https://i.imgur.com/6GghG6p.png)
+![eWallet](https://i.imgur.com/O7i0nRk.png)
 
 # Try the app!
 Don't hesitate and click the link below to try the eWallet! ⤵️
