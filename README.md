@@ -1,4 +1,4 @@
-# eWallet 📔
+# eWallet  :moneybag:
 Small app who helps you control your budget
 
 # Language and tools
@@ -13,7 +13,9 @@ You can use the eWallet app on the desktops, tablets and mobile as well.
 # Tests
 I added tests to my repository.
 </br>
-There are e2e tests in cypress and testing functionally of application. If you want to run the tests you have to install run Cypress.io. by command
+There are e2e tests in cypress and testing functionally of application. 
+</br>
+If you want to run the tests you just run Cypress by command
 ```
 npm test
 ```
@@ -39,4 +41,4 @@ The language of the app is english.
 # Try the app!
 Don't hesitate and click the link below to try the eWallet! ⤵️
 </br>
-[Check out the smartNotes app](https://emarcins.github.io/smartNotes/)
+[Check out the eWallet app](https://emarcins.github.io/eWallet/)
