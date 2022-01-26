@@ -23,7 +23,7 @@ npm test
 </br>
 The code you can find in Cypress/integration/eWallet-test folder (eWallet.spec.js file) and in Cypress/support folder (utils.js file).
 
-# How it works?
+# How it works? :+1:
 It helps you to organize your budget and your daily finances. 🗒️
 </br>
 To start just click on "Add transaction" button and select one of options and rembember to add the text.
